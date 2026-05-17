@@ -1,4 +1,3 @@
-<!-- intellita-grade:start -->
 # intelliTA Submission
 
 **Activity:** Smoke Test Activity
@@ -10,9 +9,3 @@
 | # | Title | Type | Result |
 |---|-------|------|--------|
 | — | — | — | — |
-
-<!-- intellita-grade:end -->
-
----
-
-**jfjfgjgfj**
